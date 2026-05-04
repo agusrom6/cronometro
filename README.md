@@ -2,6 +2,7 @@
 
 Una aplicación de escritorio simple y funcional desarrollada en Python con Tkinter.
 
+<img width="1920" height="1280" alt="cronometro" src="https://github.com/user-attachments/assets/76652f91-721f-42ac-8e9d-1bae1a7b0227" />
 ---
 
 ## 📋 Descripción
